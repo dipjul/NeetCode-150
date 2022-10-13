@@ -1,6 +1,6 @@
 # NeetCode-150
 
-## Arrays & Hashing [Resources]()
+## Arrays & Hashing [Resources](https://github.com/dipjul/NeetCode-150/blob/360bedd1d9c1724a587bb7b2119b666a06ad6f4b/01.%20Arrays%20&%20Hashing/README.md)
 
 1. Contains Duplicate	[Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/01.%20ContainsDuplicate.md)
 2. Valid Anagram [Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/02.ValidAnagram.md)
@@ -12,7 +12,7 @@
 8. Encode And Decode Strings	 [Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/08.EncodeAndDecodeStrings.md)
 9. Longest Consecutive Sequence	 [Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/09.LongestConsecutiveSequence.md)
 
-## Two Pointers [Resources]()
+## Two Pointers [Resources](https://github.com/dipjul/NeetCode-150/blob/3d388093ed2f3d2feb90f76548406764a45eda80/02.%20Two%20Pointer/README.md)
 
 1. Valid Palindrome [Solution]()
 2. Two Sum II Input Array Is Sorted [Solution]()
