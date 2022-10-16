@@ -1,6 +1,6 @@
 # NeetCode-150
 
-## Arrays & Hashing [Resources](https://github.com/dipjul/NeetCode-150/blob/360bedd1d9c1724a587bb7b2119b666a06ad6f4b/01.%20Arrays%20&%20Hashing/README.md)
+## 1. Arrays & Hashing [Resources](https://github.com/dipjul/NeetCode-150/blob/360bedd1d9c1724a587bb7b2119b666a06ad6f4b/01.%20Arrays%20&%20Hashing/README.md)
 
 1. Contains Duplicate	[Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/01.%20ContainsDuplicate.md)
 2. Valid Anagram [Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/02.ValidAnagram.md)
@@ -12,7 +12,7 @@
 8. Encode And Decode Strings	 [Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/08.EncodeAndDecodeStrings.md)
 9. Longest Consecutive Sequence	 [Solution](https://github.com/dipjul/NeetCode-150/blob/7228eb6d1cc44a10e171aa0b01adf5a237176b57/01.%20Arrays%20&%20Hashing/09.LongestConsecutiveSequence.md)
 
-## Two Pointers [Resources](https://github.com/dipjul/NeetCode-150/blob/3d388093ed2f3d2feb90f76548406764a45eda80/02.%20Two%20Pointer/README.md)
+## 2. Two Pointers [Resources](https://github.com/dipjul/NeetCode-150/blob/3d388093ed2f3d2feb90f76548406764a45eda80/02.%20Two%20Pointer/README.md)
 
 1. Valid Palindrome [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/02.%20Two%20Pointer/01.ValidPalindrome.md)
 2. Two Sum II Input Array Is Sorted [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/02.%20Two%20Pointer/02.TwoSumII.md)
@@ -20,7 +20,7 @@
 4. Container With Most Water [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/02.%20Two%20Pointer/04.ContainerWithMostWater.md)
 5. Trapping Rain Water	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/02.%20Two%20Pointer/05.TrappingRainWater.md)
 
-## Sliding Window [Resources]()
+## 3. Sliding Window [Resources]()
 
 1. Best Time to Buy And Sell Stock [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/03.%20Sliding%20Window/01.BestTimeToBuy&SellStock.md)
 2. Longest Substring Without Repeating Characters [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/03.%20Sliding%20Window/02.LongestSubstringWithoutRepeatingCharacters.md)
@@ -29,7 +29,7 @@
 5. Minimum Window Substring [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/03.%20Sliding%20Window/05.MinimumWindowSubstring.md)
 6. Sliding Window Maximum [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/03.%20Sliding%20Window/06.SlidingWindowMaximum.md)
 
-## Stack [Resources]()
+## 4. Stack [Resources]()
 
 1. Valid Parentheses	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/04.%20Stack/01.ValidParentheses.md)
 2. Min Stack	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/04.%20Stack/02.MinStack.md)
@@ -39,7 +39,7 @@
 6. Car Fleet	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/04.%20Stack/06.CarFleet.md)
 7. Largest Rectangle In Histogram	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/04.%20Stack/07.LargestRectangleInHistogram.md)
  
-## Binary Search [Resources]()
+## 5. Binary Search [Resources]()
 
 1. Binary Search	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/05.%20Binary%20Search/01.BinarySearch.md)
 2. Search a 2D Matrix	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/05.%20Binary%20Search/02.SearchIn2DMatrix.md)
@@ -49,7 +49,7 @@
 6. Time Based Key Value Store	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/05.%20Binary%20Search/06.TimeBasedKeyValueStore.md)
 7. Median of Two Sorted Arrays	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/05.%20Binary%20Search/07.MedianOfTwoSortedArrays.md)
 
-## Lined List [Resources]()
+## 6. Lined List [Resources]()
 
 1. Reverse Linked List	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/06.%20LinkedList/01.ReverseLinkedList.md)
 2. Merge Two Sorted Lists	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/06.%20LinkedList/02.MergeTwoLinkedList.md)
@@ -59,27 +59,27 @@
 6. Add Two Numbers	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/06.%20LinkedList/06.AddTwoNumbers.md)
 7. Linked List Cycle	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/06.%20LinkedList/07.LinkedListCycle.md)
 8. Find The Duplicate Number	 [Solution](https://github.com/dipjul/NeetCode-150/blob/6c6500e54d1b6f58ebed81c848a4cc8400daec48/06.%20LinkedList/08.FindDuplicateNumber.md)
-9. LRU Cache	 [Solution]()
-10. Merge K Sorted Lists	 [Solution]()
-11. Reverse Nodes In K Group	 [Solution]()
+9. LRU Cache	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/06.%20LinkedList/09.LRUCache.md)
+10. Merge K Sorted Lists	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/06.%20LinkedList/10.MergeKSortedLists.md)
+11. Reverse Nodes In K Group	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/06.%20LinkedList/11.ReverseNodesInK-Group.md)
 
-## Trees [Resources]()
+## 7. Trees [Resources](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/README.md)
 
-1. Invert Binary Tree	 [Solution]()
-2. Maximum Depth of Binary Tree	 [Solution]()
-3. Diameter of Binary Tree	 [Solution]()
-4. Balanced Binary Tree	 [Solution]()
-5. Same Tree	 [Solution]()
-6. Subtree of Another Tree	 [Solution]()
-7. Lowest Common Ancestor of a Binary Search Tree	 [Solution]()
-8. Binary Tree Level Order Traversal	 [Solution]()
-9. Binary Tree Right Side View	 [Solution]()
-10. Count Good Nodes In Binary Tree	 [Solution]()
-11. Validate Binary Search Tree	 [Solution]()
-12. Kth Smallest Element In a Bst	 [Solution]()
-13. Construct Binary Tree From Preorder And Inorder Traversal	 [Solution]()
-14. Binary Tree Maximum Path Sum	 [Solution]()
-15. Serialize And Deserialize Binary Tree	 [Solution]()
+1. Invert Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/01.InvertBinaryTree.md)
+2. Maximum Depth of Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/02.MaxDepthOfBinaryTree.md)
+3. Diameter of Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/03.DiameterOfABinaryTree.md)
+4. Balanced Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/04.BalancedBinaryTree.md)
+5. Same Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/05.SameTree.md)
+6. Subtree of Another Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/06.SubtreeOfAnotherTree.md)
+7. Lowest Common Ancestor of a Binary Search Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/07.LowsetCommonAncestorOfABinarySearchTree.md)
+8. Binary Tree Level Order Traversal	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/08.BinaryTreeLevelOrderTraversal.md)
+9. Binary Tree Right Side View	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/09.BinaryTreeRightSideView.md)
+10. Count Good Nodes In Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/10.CountGoodNodesInBinaryTree.md)
+11. Validate Binary Search Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/11.ValidateBinarySearchTree.md)
+12. Kth Smallest Element In a Bst	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/12.KthSmallestElementInABST.md)
+13. Construct Binary Tree From Preorder And Inorder Traversal	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/13.ConstructBinaryTreeFromPreorderAndInorderTraversal.md)
+14. Binary Tree Maximum Path Sum	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/14.BinaryTreeMaximumPathSum.md)
+15. Serialize And Deserialize Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/15.SerializeAndDeserializeBinaryTree.md)
 
 ## Tries [Resources]()
 
