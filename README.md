@@ -1,6 +1,6 @@
 # NeetCode-150
 
-## 1. Arrays & Hashing [Resources](https://github.com/dipjul/NeetCode-150/blob/main/01.%20Arrays%20&%20Hashing/README.md)
+## 1. Arrays & Hashing [Resources](https://github.com/dipjul/NeetCode-150/blob/main/01.%20Arrays%20&%20Hashing/)
 
 1. Contains Duplicate	[Solution](https://github.com/dipjul/NeetCode-150/blob/main/01.%20Arrays%20&%20Hashing/01.%20ContainsDuplicate.md)
 2. Valid Anagram [Solution](https://github.com/dipjul/NeetCode-150/blob/main/01.%20Arrays%20&%20Hashing/02.ValidAnagram.md)
@@ -12,7 +12,7 @@
 8. Encode And Decode Strings	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/01.%20Arrays%20&%20Hashing/08.EncodeAndDecodeStrings.md)
 9. Longest Consecutive Sequence	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/01.%20Arrays%20&%20Hashing/09.LongestConsecutiveSequence.md)
 
-## 2. Two Pointers [Resources](https://github.com/dipjul/NeetCode-150/blob/main/02.%20Two%20Pointer/README.md)
+## 2. Two Pointers [Resources](https://github.com/dipjul/NeetCode-150/blob/main/02.%20Two%20Pointer/)
 
 1. Valid Palindrome [Solution](https://github.com/dipjul/NeetCode-150/blob/main/02.%20Two%20Pointer/01.ValidPalindrome.md)
 2. Two Sum II Input Array Is Sorted [Solution](https://github.com/dipjul/NeetCode-150/blob/main/02.%20Two%20Pointer/02.TwoSumII.md)
@@ -20,7 +20,7 @@
 4. Container With Most Water [Solution](https://github.com/dipjul/NeetCode-150/blob/main/02.%20Two%20Pointer/04.ContainerWithMostWater.md)
 5. Trapping Rain Water	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/02.%20Two%20Pointer/05.TrappingRainWater.md)
 
-## 3. Sliding Window [Resources](https://github.com/dipjul/NeetCode-150/blob/main/03.%20Sliding%20Window/README.md)
+## 3. Sliding Window [Resources](https://github.com/dipjul/NeetCode-150/blob/main/03.%20Sliding%20Window/)
 
 1. Best Time to Buy And Sell Stock [Solution](https://github.com/dipjul/NeetCode-150/blob/main/03.%20Sliding%20Window/01.BestTimeToBuy&SellStock.md)
 2. Longest Substring Without Repeating Characters [Solution](https://github.com/dipjul/NeetCode-150/blob/main/03.%20Sliding%20Window/02.LongestSubstringWithoutRepeatingCharacters.md)
@@ -29,7 +29,7 @@
 5. Minimum Window Substring [Solution](https://github.com/dipjul/NeetCode-150/blob/main/03.%20Sliding%20Window/05.MinimumWindowSubstring.md)
 6. Sliding Window Maximum [Solution](https://github.com/dipjul/NeetCode-150/blob/main/03.%20Sliding%20Window/06.SlidingWindowMaximum.md)
 
-## 4. Stack [Resources](https://github.com/dipjul/NeetCode-150/blob/main/04.%20Stack/README.md)
+## 4. Stack [Resources](https://github.com/dipjul/NeetCode-150/blob/main/04.%20Stack/)
 
 1. Valid Parentheses	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/04.%20Stack/01.ValidParentheses.md)
 2. Min Stack	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/04.%20Stack/02.MinStack.md)
@@ -39,7 +39,7 @@
 6. Car Fleet	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/04.%20Stack/06.CarFleet.md)
 7. Largest Rectangle In Histogram	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/04.%20Stack/07.LargestRectangleInHistogram.md)
  
-## 5. Binary Search [Resources](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/README.md)
+## 5. Binary Search [Resources](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/)
 
 1. Binary Search	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/01.BinarySearch.md)
 2. Search a 2D Matrix	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/02.SearchIn2DMatrix.md)
@@ -49,7 +49,7 @@
 6. Time Based Key Value Store	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/06.TimeBasedKeyValueStore.md)
 7. Median of Two Sorted Arrays	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/07.MedianOfTwoSortedArrays.md)
 
-## 6. Lined List [Resources](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/README.md)
+## 6. Lined List [Resources](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/)
 
 1. Reverse Linked List	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/01.ReverseLinkedList.md)
 2. Merge Two Sorted Lists	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/02.MergeTwoLinkedList.md)
@@ -63,7 +63,7 @@
 10. Merge K Sorted Lists	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/10.MergeKSortedLists.md)
 11. Reverse Nodes In K Group	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/11.ReverseNodesInK-Group.md)
 
-## 7. Trees [Resources](https://github.com/dipjul/NeetCode-150/blob/main/07.%20Tree/README.md)
+## 7. Trees [Resources](https://github.com/dipjul/NeetCode-150/blob/main/07.%20Tree/)
 
 1. Invert Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/07.%20Tree/01.InvertBinaryTree.md)
 2. Maximum Depth of Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/07.%20Tree/02.MaxDepthOfBinaryTree.md)
@@ -81,13 +81,13 @@
 14. Binary Tree Maximum Path Sum	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/07.%20Tree/14.BinaryTreeMaximumPathSum.md)
 15. Serialize And Deserialize Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/07.%20Tree/15.SerializeAndDeserializeBinaryTree.md)
 
-## 8. Tries [Resources](https://github.com/dipjul/NeetCode-150/blob/main/08.%20Trie/README.md)
+## 8. Tries [Resources](https://github.com/dipjul/NeetCode-150/blob/main/08.%20Trie/)
 
 1. Implement Trie Prefix Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/08.%20Trie/01.ImplementTrie.md)
 2. Design Add And Search Words Data Structure	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/08.%20Trie/02.DesignAddandSearchWordDataStructure.md)
 3. Word Search II	 [Solution]()
 
-## 9. Heap / PriorityQueue [Resources](https://github.com/dipjul/NeetCode-150/blob/main/09.%20Heap%20or%20PriorityQueue/README.md)
+## 9. Heap / PriorityQueue [Resources](https://github.com/dipjul/NeetCode-150/blob/main/09.%20Heap%20or%20PriorityQueue/)
 
 1. Kth Largest Element In a Stream	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/09.%20Heap%20or%20PriorityQueue/01.kthLargestElementInAStream.md)
 2. Last Stone Weight	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/09.%20Heap%20or%20PriorityQueue/02.LastStoneWeight.md)
@@ -97,7 +97,7 @@
 6. Design Twitter	 
 7. Find Median From Data Stream	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/09.%20Heap%20or%20PriorityQueue/07.FindMedianFromDataStream.md)
 
-## 10. Backtracking [Resources](https://github.com/dipjul/NeetCode-150/blob/main/10.%20Backtracking/README.md)
+## 10. Backtracking [Resources](https://github.com/dipjul/NeetCode-150/blob/main/10.%20Backtracking/)
 
 1. Subsets	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/10.%20Backtracking/01.Subsets.md)
 2. Combination Sum	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/10.%20Backtracking/02.CombinationSum.md)
@@ -109,7 +109,7 @@
 8. Letter Combinations of a Phone Number	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/10.%20Backtracking/08.LetterCombinationsOfAPhone.md)
 9. N Queens	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/10.%20Backtracking/09.N-Queens.md)
 
-## 11. Graphs [Resources](https://github.com/dipjul/NeetCode-150/blob/main/11.%20Graphs/README.md)
+## 11. Graphs [Resources](https://github.com/dipjul/NeetCode-150/blob/main/11.%20Graphs/)
 
 1. Number of Islands	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/11.%20Graphs/01.NumberOfIslands.md)
 2. Clone Graph	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/11.%20Graphs/02.CloneGraph.md)
@@ -125,7 +125,7 @@
 12. Graph Valid Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/11.%20Graphs/12.GraphValidTree.md)
 13. Word Ladder	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/11.%20Graphs/13.WordLadder.md)
 
-## 12. Advanced Graphs [Resources](https://github.com/dipjul/NeetCode-150/blob/main/12.%20Advanced%20Graphs/README.md)
+## 12. Advanced Graphs [Resources](https://github.com/dipjul/NeetCode-150/blob/main/12.%20Advanced%20Graphs/)
 
 1. Reconstruct Itinerary	 [Solution]()
 2. Min Cost to Connect All Points	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/12.%20Advanced%20Graphs/02.MinCostToConnectAllPoints.md)
@@ -134,7 +134,7 @@
 5. Alien Dictionary	 [Solution]()
 6. Cheapest Flights Within K Stops	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/12.%20Advanced%20Graphs/06.CheapestFlightsWithinKStops.md)
 
-## 13. 1-D Dynamic Programming [Resources](https://github.com/dipjul/NeetCode-150/blob/main/13.%201-D%20Dynamic%20Programming/README.md)
+## 13. 1-D Dynamic Programming [Resources](https://github.com/dipjul/NeetCode-150/blob/main/13.%201-D%20Dynamic%20Programming/)
 
 1. Climbing Stairs	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/13.%201-D%20Dynamic%20Programming/01.ClimbingStairs.md)
 2. Min Cost Climbing Stairs	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/13.%201-D%20Dynamic%20Programming/02.MinCostClimbingStair.md)
@@ -149,7 +149,7 @@
 11. Longest Increasing Subsequence	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/13.%201-D%20Dynamic%20Programming/11.LongestIncreasingSubsequence.md)
 12. Partition Equal Subset Sum	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/13.%201-D%20Dynamic%20Programming/12.PartitionEqualSubsetSum.md)
 
-## 14. 2-D Dynamic Programming [Resources](https://github.com/dipjul/NeetCode-150/blob/main/14.%202-D%20Dynamic%20Programming/README.md)
+## 14. 2-D Dynamic Programming [Resources](https://github.com/dipjul/NeetCode-150/blob/main/14.%202-D%20Dynamic%20Programming/)
 
 1. Unique Paths	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/14.%202-D%20Dynamic%20Programming/01.UniquePaths.md)
 2. Longest Common Subsequence	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/14.%202-D%20Dynamic%20Programming/02.LongestCommonSubsequence.md)
@@ -163,7 +163,7 @@
 10. Burst Balloons	 
 11. Regular Expression Matching	 
 
-## 15. Greedy [Resources](https://github.com/dipjul/NeetCode-150/blob/main/15.%20Greedy/README.md)
+## 15. Greedy [Resources](https://github.com/dipjul/NeetCode-150/blob/main/15.%20Greedy/)
 
 1. Maximum Subarray	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/15.%20Greedy/01.MaximumSubarray.md)
 2. Jump Game	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/15.%20Greedy/02.Jump.md)
@@ -174,7 +174,7 @@
 7. Partition Labels	 [Solution]()
 8. Valid Parenthesis String	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/15.%20Greedy/08.ValidParenthesisString.md)
 
-## 16. Intervals [Resources](https://github.com/dipjul/NeetCode-150/blob/main/16.%20Intervals/README.md)
+## 16. Intervals [Resources](https://github.com/dipjul/NeetCode-150/blob/main/16.%20Intervals/)
 
 1. Insert Interval	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/16.%20Intervals/01.InsertInterval.md)
 2. Merge Intervals	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/16.%20Intervals/02.MergeInterval.md)
@@ -183,7 +183,7 @@
 5. Meeting Rooms II	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/16.%20Intervals/05.MeetingRoomsII.md)
 6. Minimum Interval to Include Each Query	 
 
-## 17. Math & Geometry [Resources](https://github.com/dipjul/NeetCode-150/blob/main/17.%20Math%20&%20Geometry/README.md)
+## 17. Math & Geometry [Resources](https://github.com/dipjul/NeetCode-150/blob/main/17.%20Math%20&%20Geometry/)
 
 1. Rotate Image	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/17.%20Math%20&%20Geometry/01.RotateImage.md)
 2. Spiral Matrix	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/17.%20Math%20&%20Geometry/02.SpiralMatrix.md)
@@ -194,7 +194,7 @@
 7. Multiply Strings	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/17.%20Math%20&%20Geometry/07.MultiplyStrings.md)
 8. Detect Squares	 
 
-## 18. Bit Manipulation [Resources](https://github.com/dipjul/NeetCode-150/blob/main/18.%20Bit%20Manipulation/README.md)
+## 18. Bit Manipulation [Resources](https://github.com/dipjul/NeetCode-150/blob/main/18.%20Bit%20Manipulation/)
 
 1. Single Number	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/18.%20Bit%20Manipulation/01.SingleNumber.md)
 2. Number of 1 Bits	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/18.%20Bit%20Manipulation/02.NumberOf1Bits.md)
