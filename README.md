@@ -203,3 +203,14 @@
 5. Missing Number	 [Solution](https://github.com/dipjul/NeetCode-150/blob/ae584e397b98f9d8f80c6b0faa52903fcc1dbf6d/18.%20Bit%20Manipulation/05.MissingNumber.md)
 6. Sum of Two Integers	 [Solution](https://github.com/dipjul/NeetCode-150/blob/ae584e397b98f9d8f80c6b0faa52903fcc1dbf6d/18.%20Bit%20Manipulation/06.SumOfTwoIntegers.md)
 7. Reverse Integer
+
+## 19. Misc-DSA (Not from Neetcode)
+
+1. [Union Find](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/01.UnionFind.md)  
+2. [Dijkstra's Algorithm](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/02.Dijkstra's%20Algorithm.md)  
+3. [BFS on Graph](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/03.BFS-Graph.md)  
+4. [Bellman Ford](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/04.Bellman-ford.md)  
+5. [KMP Algorithm](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/05.KMP-Algorithm.md)  
+6. [Segment Tree](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/06.SegmentTree.md)  
+7. [Fenwick Tree](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/07.FenwickTree.md)  
+8. [Fenwick Tree 2D](https://github.com/dipjul/NeetCode-150/blob/ac0bd2d560865d278e16600c7992356a57eafa5f/Misc-DSA/08.FenwickTree2D.md)
