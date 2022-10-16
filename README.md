@@ -81,15 +81,15 @@
 14. Binary Tree Maximum Path Sum	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/14.BinaryTreeMaximumPathSum.md)
 15. Serialize And Deserialize Binary Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/4fea2ab2463328d9af6eb2ebac96fe3fa285e433/07.%20Tree/15.SerializeAndDeserializeBinaryTree.md)
 
-## Tries [Resources]()
+## 8. Tries [Resources]()
 
-1. Implement Trie Prefix Tree	 [Solution]()
-2. Design Add And Search Words Data Structure	 [Solution]()
+1. Implement Trie Prefix Tree	 [Solution](https://github.com/dipjul/NeetCode-150/blob/725e2586307af9fc2c724b8ae131fc67c0bcb565/08.%20Trie/01.ImplementTrie.md)
+2. Design Add And Search Words Data Structure	 [Solution](https://github.com/dipjul/NeetCode-150/blob/725e2586307af9fc2c724b8ae131fc67c0bcb565/08.%20Trie/02.DesignAddandSearchWordDataStructure.md)
 3. Word Search II	 [Solution]()
 
-## Heap / PriorityQueue [Resources]()
+## 9. Heap / PriorityQueue [Resources]()
 
-1. Kth Largest Element In a Stream	 [Solution]()
+1. Kth Largest Element In a Stream	 [Solution](https://github.com/dipjul/NeetCode-150/blob/725e2586307af9fc2c724b8ae131fc67c0bcb565/09.%20Heap%20or%20PriorityQueue/01.kthLargestElementInAStream.md)
 2. Last Stone Weight	 [Solution]()
 3. K Closest Points to Origin	 [Solution]()
 4. Kth Largest Element In An Array	 [Solution]()
